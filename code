@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Happy Anniversary!</title>
+    <style>
+        body {
+            background-color: #fce2d1; /* Pastel Orange */
+            font-family: 'Arial', sans-serif;
+            text-align: center;
+            margin: 20px;
+        }
+
+        h1 {
+            color: #6a0572; /* Dark Purple */
+        }
+
+        p {
+            color: #264653; /* Dark Teal */
+            font-size: 18px;
+        }
+
+        img {
+            max-width: 100%;
+            height: auto;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Happy One Year Anniversary!</h1>
+    <p>Dear [Boyfriend's Name],</p>
+    <p>Thank you for an amazing year together. Here's to many more!</p>
+    <img src="cute_image.jpg" alt="Cute Graphic">
+</body>
+</html>
